@@ -1,0 +1,9 @@
+[submodule "Text_Compression"]
+	path = Text_Compression
+	url = git@github.com:vicente-gonzalez-ruiz/Text_Compression.git
+[submodule "Digitalization"]
+	path = Digitalization
+	url = git@github.com:vicente-gonzalez-ruiz/Digitalization.git
+[submodule "Audio_Coding"]
+	path = Audio_Coding
+	url = git@github.com:vicente-gonzalez-ruiz/Audio_Coding.git
