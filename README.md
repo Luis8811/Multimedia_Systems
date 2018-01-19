@@ -13,6 +13,11 @@ git pull
 git submodule update --remote 
 ```
 
+## Push
+```
+git push --recurse-submodules=on-demand
+```
+
 ## Show slides with:
 ```
 # Reveal (default)
