@@ -15,7 +15,8 @@ git submodule update --remote
 
 ## Push
 ```
-git push --recurse-submodules=on-demand
+# In the modified submodule and in all the parent directories
+git commit -m "..."; git push
 ```
 
 ## Show slides with:
