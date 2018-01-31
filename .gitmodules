@@ -7,3 +7,9 @@
 [submodule "signal_processing"]
 	path = signal_processing
 	url = git@github.com:vicente-gonzalez-ruiz/signal_processing.git
+[submodule "image_compression"]
+	path = image_compression
+	url = git@github.com:vicente-gonzalez-ruiz/image_compression.git
+[submodule "video_compression"]
+	path = video_compression
+	url = git@github.com:vicente-gonzalez-ruiz/video_compression.git
